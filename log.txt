@@ -1,0 +1,1 @@
+2024-02-25 11:03:37 Error: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null
